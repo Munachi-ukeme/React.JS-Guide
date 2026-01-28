@@ -1,16 +1,17 @@
-# React + Vite
+As a Junior JavaScript developer, after my training I still felt anxious about how to stand out in the job market. I consulted Copilot AI for advice, and it gave me a simple but powerful guide on how to build confidence as a web developer and stand out.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+After going through the guide, I decided to embark on this journey of starting afresh — focusing on the 20% of concepts that power 80% of web apps.
 
-Currently, two official plugins are available:
+My Commitment:
+✔ I will practice daily, even in small chunks.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+✔ I will document my progress so I can see growth over time.
 
-## React Compiler
+✔ I will teach what I learn, because explaining makes knowledge stick.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+✔ I will reflect honestly on my journey, turning anxiety into confidence.
 
-## Expanding the ESLint configuration
+Vision:
+By following this routine, I aim to transform my skills from basic training into practical expertise. My goal is not just to write code, but to think like a developer, solve problems with confidence, and stand out in the job market.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+This README is my personal roadmap. Each day I’ll add one reflection line, building a trail of progress that shows how far I’ve come.
